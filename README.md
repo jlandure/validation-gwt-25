@@ -5,6 +5,14 @@
 The idea of this project is to test the [RPC call](http://www.gwtproject.org/doc/latest/tutorial/RPC.html) from GWT.
 We used the `Validation` project from the samples of the [GWT 2.5](http://www.gwtproject.org/versions.html) artefact.
 
+## Documentation
+
+Here some good links about RPC:
+
+- [The GWT-RPC wire protocol
+  ](https://docs.google.com/document/d/1eG0YocsYYbNAtivkLtcaiEE5IOF5u4LUol8-LL0TIKU/edit#)
+- [Alternatives to GWT-RPC](https://zakariaamine.developpez.com/tutoriels/java/gwt/alternatives-http-request/)
+
 ## Launch
 
 Launch the project using Docker:
